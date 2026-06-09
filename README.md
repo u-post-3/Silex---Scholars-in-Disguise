@@ -170,7 +170,7 @@
 ### Jade Flute Sword (Scholars 4th)
 
 - Multiple advanced skills unlocked
-- Rework Available except rage and AoE, if remembered correctly
+- Rework Available except rage and AoE, iirc
 
 ## Ancient / Jianghu Martial Arts
 
@@ -357,7 +357,7 @@
 ### External Treasure
 
 - Perishable Blade setup
-- Beast Villa / Wanderer's Valley PvE setup
+- Wanderer's Valley PvE setup
 
 ## Jade Dolls
 
@@ -380,8 +380,7 @@ Additional external-focused dolls included.
 - Head
 - Hidden Weapon / Claw
 - Twin Swords
-  - +20% 2N4 Shoulder AoE
-  - Used with 9 Palace cash shop set AoE setup
+  - +20% 2N4 Shoulder AoE (9 Palace cash shop set AoE)
 
 ### C6 Battlefield Gear
 
