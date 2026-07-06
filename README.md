@@ -20,6 +20,9 @@
 - Martial Arts Study: **135M+**
 - Martial Arts Collected: **622 / 700**
 
+### Price: 2,500$
+this price is not final, and its open for negotiations.
+
 ---
 
 # Major Selling Points
