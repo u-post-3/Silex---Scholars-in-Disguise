@@ -22,7 +22,7 @@
 
 ### Price: 2,500$
 this price is not final, and its open for negotiations.
-#### discord: yaghmo_od
+#### discord: bye5701
 
 
 ---
