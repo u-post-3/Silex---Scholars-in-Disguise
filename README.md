@@ -287,14 +287,14 @@ this price is not final, and its open for negotiations.
 
 | Meridian | Sect | Subsect |
 |---|---:|---:|
-| Greater Yin Lung | 216 | 180 |
-| Lesser Yang Sanjiao | 216 | 216 |
-| Greater Yang | 216 | 216 |
-| Lesser Yin | 216 | 216 |
-| Reverting Yin | 216 | 216 |
-| Greater Yin Spleen | 216 | 216 |
-| Lesser Yang Gallbladder | 144 | 0 |
-| Yang Brightness | 216 | 216 |
+| Greater Yin Lung (Emei)| 216 | 180 |
+| Lesser Yang Sanjiao (Wanderer's Valley)| 216 | 216 |
+| Greater Yang (Beggar)| 216 | 216 |
+| Lesser Yin (Wudang)| 216 | 216 |
+| Reverting Yin (Scholars)| 216 | 216 |
+| Greater Yin Spleen (Tangmen)| 216 | 216 |
+| Lesser Yang Gallbladder (Royal Guard)| 144 | 0 |
+| Yang Brightness (Shaolin)| 216 | 216 |
 
 ## Special Meridians
 
