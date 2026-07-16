@@ -20,7 +20,7 @@
 - Martial Arts Study: **135M+**
 - Martial Arts Collected: **622 / 700**
 
-### Price: 850$
+### Price: 650$
 this price is not final, and its open for negotiations.
 #### discord: bye5701
 
