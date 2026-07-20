@@ -299,12 +299,12 @@ this price is not final, and its open for negotiations.
 ## Special Meridians
 
 - Qi Gathering in Dantian: **72/72**
-- Yin Qiao: **145** + (211 power)
-- Yang Qiao: **90** + (82 power)
+- Yin Qiao: **145** - (+ 211 power)
+- Yang Qiao: **90** - (+ 82 power)
 - Yin Linking Meridian: **45**
 - Girdling Meridian: **90**
-- Hidden Yin: **180** (+ 281 power)
-- Hidden Yang: **180** (+ 248 power)
+- Hidden Yin: **180** - (+ 281 power)
+- Hidden Yang: **180** - (+ 248 power)
 
 ---
 
