@@ -285,16 +285,16 @@ this price is not final, and its open for negotiations.
 
 ## Sect / Subsect Meridians
 
-| Meridian | Sect | Subsect |
-|---|---:|---:|
-| Greater Yin Lung (Emei)| 216 | 180 |
-| Lesser Yang Sanjiao (Wanderer's Valley)| 216 | 216 |
-| Greater Yang (Beggar)| 216 | 216 |
-| Lesser Yin (Wudang)| 216 | 216 |
-| Reverting Yin (Scholars)| 216 | 216 |
-| Greater Yin Spleen (Tangmen)| 216 | 216 |
-| Lesser Yang Gallbladder (Royal Guard)| 144 | 0 |
-| Yang Brightness (Shaolin)| 216 | 216 |
+| Meridian | Sect | Subsect | Treasure
+|---|---:|---:|---:|
+| Greater Yin Lung (Emei)| 216 | 180 | 560/1200 Energy| 
+| Lesser Yang Sanjiao (Wanderer's Valley)| 216 | 216 | 140/180 Spirit|
+| Greater Yang (Beggar)| 216 | 216 | 156/180 Stamina|
+| Lesser Yin (Wudang)| 216 | 216 | 360/1200 Energy|
+| Reverting Yin (Scholars)| 216 | 216 | 132/180 Breath|
+| Greater Yin Spleen (Tangmen)| 216 | 216 | 52/180 Dexterity|
+| Lesser Yang Gallbladder (Royal Guard)| 144 | 0 | |
+| Yang Brightness (Shaolin)| 216 | 216 | |
 
 ## Special Meridians
 
